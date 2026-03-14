@@ -17,16 +17,7 @@ else:
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 # Your API ID from my.telegram.org
-API_ID = int(os.environ.get("API_ID", "38318290
-
-Api id 
-38318290
-
-App api hash 
-
-7d498a250d346d3749c4433eb7c96fb2
-
-All latest batch here"))
+API_ID = int(os.environ.get("API_ID", "38318290"))
 
 # Your API Hash from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "7d498a250d346d3749c4433eb7c96fb2")
